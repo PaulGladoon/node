@@ -36,4 +36,4 @@ http.createServer((req, res) => {
       })
       break
   }
-}).listen(3000, () => console.log('Сервер работает'))
+}).listen(3000, () => console.log('Server works'))
